@@ -1,8 +1,8 @@
-# LXMusic iOS 客户端
-
 <p align="center">
   <img src="screenshots/AppIcon-iOS26.png" width="160" alt="LXMusic iOS 26 风格图标">
 </p>
+
+<h1 align="center">LXMusic iOS 客户端</
 
 > 由于 lxserver 的 WebUI 在 iOS 系统上存在使用限制，而 X流、X头音乐 等基于 Subsonic 协议的第三方客户端体验也不够理想，因此使用 WorkBuddy、Trae 等 AI 编程工具编写了这款 iOS 客户端，作为更顺手的移动端方案。安装包以 IPA 形式分发，需侧载到 iOS 设备使用。
 
